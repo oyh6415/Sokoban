@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ItemBox : MonoBehaviour
 {
-    private Renderer myRenderer;
+    private Renderer myRenderer; //그리기
     public Color touchColor;
     private Color originalColor;
 
